@@ -5,5 +5,5 @@ app.listen(8081,()=>{
 });
 
 app.get('/', (req,res)=>{
-    res.send('<h1>Hello World</h2>')
+    res.send('<h1>Hello duniya</h2>')
 })

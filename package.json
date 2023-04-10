@@ -1,0 +1,13 @@
+{
+  "name": "deploy-node",
+  "version": "1.0.0",
+  "description": "Practice of depolying node EC2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukash Wasti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
